@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: gestor-registro-faturamento
+  profiles:
+    active: local
+server:
+  port: 8081
