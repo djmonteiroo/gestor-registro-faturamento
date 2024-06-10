@@ -1,4 +1,4 @@
-package gestor.registro.faturamento;
+package gestor.registro.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
